@@ -1,0 +1,50 @@
+# General
+.DS_Store
+Thumbs.db
+
+# System Files
+*.log
+*.lock
+*.tmp
+*.swp
+*~
+.#*
+.idea/
+.vscode/
+
+# Python (Poetry)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache/
+.pytest_cache/
+poetry.lock
+.venv/
+venv/
+env/
+
+# Node.js (npm)
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# IDE/Editor specific files
+.project
+.classpath
+.settings/
+
+# Operating System specific files
+.DS_Store*
+ehthumbs.db
+Icon?
+
+# Mac specific files
+*.fseventsd*
+
+# Windows specific files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
