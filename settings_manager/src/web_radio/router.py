@@ -1,7 +1,6 @@
 from fastapi import APIRouter
 
-from backend.src.web_radio.schemas import WebRadio
-from backend.src.web_radio.services import get_saved_radios
+from settings_manager.src.web_radio.services import get_saved_radios
 
 router = APIRouter(prefix='/web_radio')
 
