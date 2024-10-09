@@ -1,0 +1,20 @@
+{
+  "global": {
+    "cwd": ""
+  },
+  "UID_TOBD": {
+    "media_type": "web_radio",
+    "launch_date": "0 8 * * *",
+    "key": "first_radio"
+  },
+  "UID_TOBD2": {
+    "media_type": "web_radio",
+    "launch_date": "0 9 * * *",
+    "key": "first_radio"
+  },
+  "UID_TOBD3": {
+    "media_type": "web_radio",
+    "launch_date": "0 10 * * *",
+    "key": "first_radio"
+  }
+}
